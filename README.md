@@ -1,4 +1,4 @@
-### Hi there 👋, I'm John Betancourt - aka [JohnBetaCode][linkedin] 
+### Hi there 👋, I'm Geraldine Gómez - aka [GeraldineGomez][linkedin] 
 Technical Leader of Artificial Intelligence and Robotics in Kiwibot (The Great Dictator)
 
 [![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
