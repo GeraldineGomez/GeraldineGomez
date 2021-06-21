@@ -1,19 +1,17 @@
-### Hi there 👋, I'm Geraldine Gómez - aka [GeraldineGomez][linkedin] 
-Technical Leader of Artificial Intelligence and Robotics in Kiwibot (The Great Dictator)
+### Hi there 👋, I'm Geraldine Gómez - [GeraldineGomez][linkedin] 
+Intern DoLab Full Stack - GBS IBM
 
-[![Website](https://img.shields.io/badge/Webpage-kiwibot-sucess?style=for-the-badge&logo=appveyor)](https://www.kiwibot.com/)
-[![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/johnbetacode/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohnBetaCode1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%JohnBetaCode1&screen_name=JohnBetaCode1)
+[![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/geraldine-gomez-millan-4250711a3\)
 
-## I'm a Entrepreneur, Developer, and Teacher!
+## I'm a Developer and Entrepreneur!
 
 <img src="https://user-images.githubusercontent.com/43115782/87436693-feecbe00-c5b2-11ea-9939-9411ab7dcf2a.jpg" alt="kiwi_banner" width="1200">
 
-I'm System engineer with emphasis on software development, inteligent systems robotics, and machine learning. I work on software and AI solutions. My areas of interest are mobile rovers, aerial (UAV), underwater vehicles (ROV), control architectures for navigation and mapping, cooperative robotics, vision systems, sensor fusion, machine learning, and image processing. I’m very interested and ready for any challenge that allows me to academically and professionally growing.
+I'm System engineer with emphasis on software development and inteligent system. I work on software solutions. My areas of interest are mobile applications, information systems, enterprise architectures, blockhain, AI, cooperative robotics, vision systems, machine learning, and image processing. I’m very interested and ready for any challenge that allows me to academically and professionally growing.
 
-- 🔭 I’m currently working with robots 🤖 at [Kiwibot][website]! (Food develivery Robots).
-- 🌱 I'm currently learning everything 🤣, but focused in ML, Ai and Engineering management (learning how complicate are people 🤯).
-- 👯 I’m looking to collaborate with other content creators in Ai and ML or things that I like.
+- 🔭 I’m currently working developing at [IBM][website]!.
+- 🌱 I'm currently learning everything 🤣, but focused in front-end, back-end, software architecture, ML and AI.
+- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
 - ⚡ Fun fact: I love pop music 🎵, photography 📷, draw ✏️, and play guitar 🎸(I'm not good), some people call me uncle John 👴, I love teaching 👨‍🏫.
 
@@ -21,13 +19,7 @@ I'm System engineer with emphasis on software development, inteligent systems ro
 ### **Connect with me**:
 
 <br />
-
-[<img align="left" alt="JohnBetaCode.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="JohnBetaCode | YouTube" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube2]
-[<img align="left" alt="JohnBetaCode | Twitter" width="30px" src="https://sevilla.2019-2022.org/wp-content/uploads/2016/07/Logo-twitter.svg_.png" />][twitter]
 [<img align="left" alt="JohnBetaCode | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="JohnBetaCode | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 
 
 <br />
