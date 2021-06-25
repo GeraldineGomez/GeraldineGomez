@@ -14,12 +14,6 @@ I'm System engineer with emphasis on software development and inteligent system.
 - 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own.
 - ⚡ Fun fact: I love music 🎵.
 
-
-### **Connect with me**:
-
-<br />
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-
 <br />
 <br />
 <br />
