@@ -12,14 +12,14 @@ I'm System engineer with emphasis on software development and inteligent system.
 - 🔭 I’m currently working developing at [IBM][website]!.
 - 🌱 I'm currently learning everything 🤣, but focused in front-end, back-end, software architecture, ML and AI.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own, build the best robot doing my best 💪, and learn to dance salsa 👯.
-- ⚡ Fun fact: I love pop music 🎵, photography 📷, draw ✏️, and play guitar 🎸(I'm not good), some people call me uncle John 👴, I love teaching 👨‍🏫.
+- 🥅 2021 - 2022 Goals: Contribute more to Open Source projects, and create my own.
+- ⚡ Fun fact: I love music 🎵.
 
 
 ### **Connect with me**:
 
 <br />
-[<img align="left" alt="JohnBetaCode | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="GeraldineGomez | LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 
 <br />
@@ -49,129 +49,11 @@ I'm System engineer with emphasis on software development and inteligent system.
 [<img align="left" alt="atlassian" height="30px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" />][atlassian]
 
 
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/
-[c]: https://es.wikipedia.org/wiki/C%2B%2B
-[ros]: https://www.ros.org/
-[ros2]: https://index.ros.org/doc/ros2/
-[gazebo]: http://gazebosim.org/
-[rviz]: http://wiki.ros.org/rviz
-[opencv]: https://opencv.org/
-[docker]: https://www.docker.com/
-[javascript]: https://es.wikipedia.org/wiki/JavaScript
-[github]: https://github.com/
-[ffmpeg]: https://ffmpeg.org/
-[gitlab]: https://about.gitlab.com/
-[atlassian]: https://www.atlassian.com
-
-[yolo]: https://www.atlassian.com
-[keras]: https://keras.io/
-[tensorflow]: https://www.tensorflow.org/
-
-<br />
-<br />
-<br />
-
-### **Platforms**:
-<br />
-
-[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
-[<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
-[<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
-[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
-[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
-[<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
-
-
-[realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
-[peplink]: https://www.peplink.com/
-[balena]: https://www.balena.io/
-[nvidia]: https://www.nvidia.com/es-la/
-[slamtec]: https://www.slamtec.com/en/
-[raspi]: https://www.raspberrypi.org/
 
 
 <br />
 <br />
 <br />
 
-### **Stats and Tools**:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JohnBetaCode&count_private=true&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBetaCode&layout=compact&theme=onedark" />
-</p>
-
-<br />
-<br />
-<br />
-<br />
-
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-[<img src="https://img.youtube.com/vi/m7jZsa-QVMQ/0.jpg" width="200">](https://www.youtube.com/watch?v=m7jZsa-QVMQ)
-[<img src="https://img.youtube.com/vi/c6agroNH1t0/0.jpg" width="200">](https://www.youtube.com/watch?v=c6agroNH1t0)
-[<img src="https://img.youtube.com/vi/s5YpJLkszts/0.jpg" width="200">](https://www.youtube.com/watch?v=s5YpJLkszts)
-[<img src="https://img.youtube.com/vi/szuZsLWioAQ/0.jpg" width="200">](https://www.youtube.com/watch?v=szuZsLWioAQ)
-[<img src="https://img.youtube.com/vi/yGe7s1Azp9w/0.jpg" width="200">](https://www.youtube.com/watch?v=yGe7s1Azp9w)
-[<img src="https://img.youtube.com/vi/zORfZK8v2TY/0.jpg" width="200">](https://www.youtube.com/watch?v=zORfZK8v2TY)
-[<img src="https://img.youtube.com/vi/V9ZiZSh1MZM/0.jpg" width="200">](https://www.youtube.com/watch?v=V9ZiZSh1MZM)
-[<img src="https://img.youtube.com/vi/acMQxwVPed8/0.jpg" width="200">](https://www.youtube.com/watch?v=acMQxwVPed8)
-[<img src="https://img.youtube.com/vi/Z4jQc3-psy8/0.jpg" width="200">](https://www.youtube.com/watch?v=0U3lQ1u-Hd4)
-[<img src="https://img.youtube.com/vi/VX4ywdUtaI4/0.jpg" width="200">](https://www.youtube.com/watch?v=VX4ywdUtaI4)
-[<img src="https://img.youtube.com/vi/0BHpz8lCFfc/0.jpg" width="200">](https://www.youtube.com/watch?v=0BHpz8lCFfc)
-[<img src="https://img.youtube.com/vi/0U3lQ1u-Hd4/0.jpg" width="200">](https://www.youtube.com/watch?v=0U3lQ1u-Hd4)
-[<img src="https://img.youtube.com/vi/QnXjbAGmS0U/0.jpg" width="200">](https://www.youtube.com/watch?v=QnXjbAGmS0U)
-[<img src="https://img.youtube.com/vi/TfKW2aXsCQQ/0.jpg" width="200">](https://www.youtube.com/watch?v=TfKW2aXsCQQ)
-[<img src="https://img.youtube.com/vi/9NKpoVVK-ko/0.jpg" width="200">](https://www.youtube.com/watch?v=9NKpoVVK-ko)
-[<img src="https://img.youtube.com/vi/4vM0W3lUiuM/0.jpg" width="200">](https://www.youtube.com/watch?v=4vM0W3lUiuM)
-[<img src="https://img.youtube.com/vi/hUH-o4Q304I/0.jpg" width="200">](https://www.youtube.com/watch?v=hUH-o4Q304I)
-[<img src="https://img.youtube.com/vi/o3hAfaeo0XE/0.jpg" width="200">](https://www.youtube.com/watch?v=o3hAfaeo0XE)
-[<img src="https://img.youtube.com/vi/muHPgD69cwE/0.jpg" width="200">](https://www.youtube.com/watch?v=muHPgD69cwE)
-[<img src="https://img.youtube.com/vi/JfgL1S9aE7o/0.jpg" width="200">](https://www.youtube.com/watch?v=JfgL1S9aE7o)
-[<img src="https://img.youtube.com/vi/UIxAvWMknCE/0.jpg" width="200">](https://www.youtube.com/watch?v=UIxAvWMknCE)
-
-
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCGIyDyfQFqBh--vQsunWqRw/videos)
-
-<br />
-
-<!-- ---------------------------------------------------------------------- -->
-
----
-
-## **Kiwibot In The News** 
- 
-| | | | | |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-Portafolio | Businessinsider | The New York Times | Techcrunch | Newscientist
-[<img src="https://www.portafolio.co/files/article_multimedia/uploads/2020/04/16/5e98bba4b76d0.jpeg" width="150">](https://www.portafolio.co/negocios/empresas/colombia-hoy-rappi-pone-en-marcha-plan-piloto-para-entregas-con-robots-539959)| [<img src="https://i.insider.com/5eaadbd1cdfd48542c3e6a48?width=900&format=jpeg&auto=webp" width="150">](https://www.businessinsider.com/delivery-startup-using-robots-in-colombia-to-avoid-coronavirus-2020-4)| [<img src="https://static01.nyt.com/images/2019/11/08/business/07wheels-oak1/merlin_163524789_c8c7379d-6f33-4008-92c7-1c5adc3991aa-superJumbo.jpg?quality=90&auto=webp" width="150">](https://www.nytimes.com/2019/11/07/business/kiwibot-delivery-bots-drones.html)| [<img src="https://media.metrolatam.com/2019/08/26/kiwibot1-7ecb4d6a040f81f0af995e9c9064dfcf.jpg" width="150">](https://techcrunch.com/2019/04/25/kiwis-food-delivery-bots-are-rolling-out-to-12-new-colleges/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cua2l3aWJvdC5jb20v&guce_referrer_sig=AQAAAI2Kb9jFB6ouWToUhpiZszmts3-4fsGKzyxGs1naC3LNkv7Ra7ye5VMEkmx66Z_ZN16i-pax1clzWpcj4OQ4FcWFgSEs0h5yvp0URTcr_streMHeGdn6X5z06TDTkN0PjRHFClW8yuSPlvqb7gjSQ7yQxITVfr_rhgThkA9SsOKy) | [<img src="https://images.newscientist.com/wp-content/uploads/2017/12/07174953/kj9fw9.jpg?width=778" width="170">](https://www.newscientist.com/article/2155830-food-delivery-robots-are-teaching-themselves-how-to-cross-roads/)
- 
- 
-<!-- ---------------------------------------------------------------------- -->
-## **Kiwibot's Media**
-[<img src="https://img.youtube.com/vi/zwO4Pw6FNCU/0.jpg" width="200">](https://www.youtube.com/watch?v=zwO4Pw6FNCU)
-[<img src="https://img.youtube.com/vi/iyO9TJHEQ7E/0.jpg" width="200">](https://www.youtube.com/watch?v=iyO9TJHEQ7E)
-[<img src="https://img.youtube.com/vi/4l6janxFHyg/0.jpg" width="200">](https://www.youtube.com/watch?v=4l6janxFHyg)
-[<img src="https://img.youtube.com/vi/0BKYZx42hwg/0.jpg" width="200">](https://www.youtube.com/watch?v=0BKYZx42hwg)
- 
-📷 **Instagram**: [kiwibot_us](https://www.instagram.com/kiwibot_us/), [kiwibot.taipei](https://www.instagram.com/kiwibot.taipei/), [kiwicampus](https://www.instagram.com/kiwicampus/)/
-🤖 **Facebook**: [kiwicampus](https://www.facebook.com/kiwicampus/) /
-🐦 **Twitter**: [kiwicampus](https://twitter.com/kiwicampus). Follow us and give us a star ⭐ if this project helped you or you like it!
- 
-<!-- ---------------------------------------------------------------------- -->
-[website]: https://www.kiwibot.com/
-[twitter]: https://twitter.com/JohnBetaCode1
-[youtube]: https://www.youtube.com/user/jhonbetancourt93
-[youtube2]: https://www.youtube.com/channel/UCGIyDyfQFqBh--vQsunWqRw/videos
-[instagram]: https://www.instagram.com/johnbetacode
-[linkedin]: https://www.linkedin.com/in/john-betancourt-345557129
 
 ❤️ ❤️ ❤️ 
