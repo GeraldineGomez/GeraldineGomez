@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Geraldine Gómez - [GeraldineGomez][linkedin] 
 Intern DoLab Full Stack - GBS IBM
 
-[![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/geraldine-gómez-millán-4250711a3\)
-[![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/johnbetacode/)
+[![linkedin](https://img.shields.io/badge/Webpage-linkedin-sucess?style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/geraldine-gómez-millán-4250711a3/)
 ## I'm a Developer and Entrepreneur!
 
 <img src="https://user-images.githubusercontent.com/43115782/87436693-feecbe00-c5b2-11ea-9939-9411ab7dcf2a.jpg" alt="kiwi_banner" width="1200">
